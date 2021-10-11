@@ -1,4 +1,12 @@
 /* ########## Global Styles ########### */
+html {
+    box-sizing: border-box;
+  }
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+}
 .container {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
