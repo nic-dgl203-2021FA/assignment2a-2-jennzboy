@@ -83,6 +83,9 @@ li {
     justify-content: center;
     margin: 0 50px 30px 50px;
 }
+.sidebar-top-tile label{
+    font-size: 20px;
+}
 /* ########## Sidebar bottom tile ########### */
 .sidebar-bottom-tile-centered {
     background-color: #E9FFF9;
