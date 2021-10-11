@@ -37,7 +37,11 @@ li {
 
 /* ########## Page Heading  ########### */
 
+.page-heading {
+    margin: 0;
     grid-area: header;
+}
+
 /* ########## Navbar ########### */
     grid-area: nav;
 /* ########## Main tile ########### */
