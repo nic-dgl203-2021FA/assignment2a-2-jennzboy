@@ -114,3 +114,6 @@ li {
     text-align: center;
     margin: 0;
 }
+.sidebar-bottom-tile-centered a {
+    display: flex;
+}
