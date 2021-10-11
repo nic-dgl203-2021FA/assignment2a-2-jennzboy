@@ -103,4 +103,5 @@ li {
     background-color: #E9FFF9;
     grid-area: sidebar-bottom;
     padding: 20px;
+    height: 250px;
 }
