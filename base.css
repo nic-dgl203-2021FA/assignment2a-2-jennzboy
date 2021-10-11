@@ -19,6 +19,7 @@ a {
     color: black;
 }
 li {
+    list-style-type: none;
     background-color: #9ED8DB;
 }
 .container {
