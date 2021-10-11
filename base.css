@@ -73,6 +73,9 @@ li {
     padding: 20px;
     height: 300px;
 }
+.sidebar-top-tile h3 {
+    display: flex;
+}
 /* ########## Sidebar bottom tile ########### */
 .sidebar-bottom-tile-centered {
     background-color: #E9FFF9;
