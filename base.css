@@ -28,7 +28,15 @@ li {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-gap: 25px;
+    grid-template-areas: 
+        "header header header ."
+        "nav nav nav nav"
+        "main main main sidebar-top"
+        "main main main sidebar-bottom";
+}
+
 /* ########## Page Heading  ########### */
+
     grid-area: header;
 /* ########## Navbar ########### */
     grid-area: nav;
