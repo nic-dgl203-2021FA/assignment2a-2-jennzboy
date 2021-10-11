@@ -81,6 +81,7 @@ li {
 .sidebar-top-tile p {
     display: inline-block;
     justify-content: center;
+    margin: 0 50px 30px 50px;
 }
 /* ########## Sidebar bottom tile ########### */
 .sidebar-bottom-tile-centered {
