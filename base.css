@@ -78,6 +78,9 @@ li {
     justify-content: flex-end;
     margin: 0 0 20px 0;
 }
+.sidebar-top-tile p {
+    display: inline-block;
+}
 /* ########## Sidebar bottom tile ########### */
 .sidebar-bottom-tile-centered {
     background-color: #E9FFF9;
