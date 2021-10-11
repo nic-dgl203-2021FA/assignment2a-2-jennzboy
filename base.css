@@ -58,9 +58,11 @@ li {
 }
 
 /* ########## Main tile ########### */
+
 .main-tile {
     background-color: #E9FFF9;
     grid-area: main;
+    padding: 20px;
 }
 
 /* ########## Sidebar top tile ########### */
