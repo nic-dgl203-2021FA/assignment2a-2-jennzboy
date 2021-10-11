@@ -27,6 +27,7 @@ li {
 .container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 25px;
 /* ########## Page Heading  ########### */
 /* ########## Navbar ########### */
 /* ########## Main tile ########### */
