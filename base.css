@@ -118,5 +118,6 @@ li {
     display: flex;
     justify-content: center;
     background-color: #9ED8DB;
+    padding: 10px;
     color: white;
 }
