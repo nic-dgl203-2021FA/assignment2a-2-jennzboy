@@ -21,6 +21,7 @@ a {
 li {
     list-style-type: none;
     background-color: #9ED8DB;
+    margin-right: 25px;
 }
 .container {
     display: grid;
