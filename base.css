@@ -86,6 +86,9 @@ li {
 .sidebar-top-tile label{
     font-size: 20px;
 }
+.sidebar-top-tile input {
+    width: 100%;
+}
 /* ########## Sidebar bottom tile ########### */
 .sidebar-bottom-tile-centered {
     background-color: #E9FFF9;
