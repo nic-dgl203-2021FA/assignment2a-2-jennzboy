@@ -105,3 +105,6 @@ li {
     padding: 20px;
     height: 250px;
 }
+.sidebar-bottom-tile-centered .cost {
+    font-size: 70px;
+}
