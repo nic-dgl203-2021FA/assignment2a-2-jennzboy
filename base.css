@@ -117,4 +117,6 @@ li {
 .sidebar-bottom-tile-centered a {
     display: flex;
     justify-content: center;
+    background-color: #9ED8DB;
+    color: white;
 }
