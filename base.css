@@ -92,6 +92,7 @@ li {
 .sidebar-top-tile button {
     background-color: #E9FFF9;
     border: 2px solid #9ED8DB;
+    padding: 5px;
 }
 
 /* ########## Sidebar bottom tile ########### */
