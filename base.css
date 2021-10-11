@@ -116,4 +116,5 @@ li {
 }
 .sidebar-bottom-tile-centered a {
     display: flex;
+    justify-content: center;
 }
