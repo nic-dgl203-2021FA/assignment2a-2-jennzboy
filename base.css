@@ -112,4 +112,5 @@ li {
 }
 .sidebar-bottom-tile-centered p {
     text-align: center;
+    margin: 0;
 }
