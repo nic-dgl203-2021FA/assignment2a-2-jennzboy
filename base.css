@@ -29,17 +29,22 @@ li {
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-gap: 25px;
 /* ########## Page Heading  ########### */
+    grid-area: header;
 /* ########## Navbar ########### */
+    grid-area: nav;
 /* ########## Main tile ########### */
 .main-tile {
     background-color: #E9FFF9;
+    grid-area: main;
 }
 
 /* ########## Sidebar top tile ########### */
 .sidebar-top-tile {
     background-color: #E9FFF9;
+    grid-area: sidebar-top;
 }
 /* ########## Sidebar bottom tile ########### */
 .sidebar-bottom-tile-centered {
     background-color: #E9FFF9;
+    grid-area: sidebar-bottom;
 }
