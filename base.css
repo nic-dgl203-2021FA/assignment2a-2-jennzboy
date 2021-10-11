@@ -8,6 +8,7 @@ html {
     box-sizing: inherit;
 }
 body {
+    background-color: #9ED8DB;
     font-family: Arial, Helvetica, sans-serif;
 }
 .container {
@@ -17,7 +18,15 @@ body {
 /* ########## Page Heading  ########### */
 /* ########## Navbar ########### */
 /* ########## Main tile ########### */
+.main-tile {
+    background-color: #E9FFF9;
 }
 
 /* ########## Sidebar top tile ########### */
+.sidebar-top-tile {
+    background-color: #E9FFF9;
+}
 /* ########## Sidebar bottom tile ########### */
+.sidebar-bottom-tile-centered {
+    background-color: #E9FFF9;
+}
