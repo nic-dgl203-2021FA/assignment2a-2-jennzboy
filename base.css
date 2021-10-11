@@ -71,6 +71,7 @@ li {
     background-color: #E9FFF9;
     grid-area: sidebar-top;
     padding: 20px;
+    height: 300px;
 }
 /* ########## Sidebar bottom tile ########### */
 .sidebar-bottom-tile-centered {
