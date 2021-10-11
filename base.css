@@ -89,6 +89,11 @@ li {
 .sidebar-top-tile input {
     width: 100%;
 }
+.sidebar-top-tile button {
+    background-color: #E9FFF9;
+    border: 2px solid #9ED8DB;
+}
+
 /* ########## Sidebar bottom tile ########### */
 .sidebar-bottom-tile-centered {
     background-color: #E9FFF9;
