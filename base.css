@@ -75,6 +75,7 @@ li {
 }
 .sidebar-top-tile h3 {
     display: flex;
+    justify-content: flex-end;
 }
 /* ########## Sidebar bottom tile ########### */
 .sidebar-bottom-tile-centered {
