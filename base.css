@@ -80,6 +80,7 @@ li {
 }
 .sidebar-top-tile p {
     display: inline-block;
+    justify-content: center;
 }
 /* ########## Sidebar bottom tile ########### */
 .sidebar-bottom-tile-centered {
