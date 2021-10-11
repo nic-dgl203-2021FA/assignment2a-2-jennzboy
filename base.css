@@ -26,8 +26,7 @@ li {
 }
 .container {
     display: grid;
-    grid-template-columns: repeat(12, 1fr);
-    grid-gap: 20px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
 /* ########## Page Heading  ########### */
 /* ########## Navbar ########### */
 /* ########## Main tile ########### */
