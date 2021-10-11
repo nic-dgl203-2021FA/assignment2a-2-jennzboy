@@ -66,9 +66,11 @@ li {
 }
 
 /* ########## Sidebar top tile ########### */
+
 .sidebar-top-tile {
     background-color: #E9FFF9;
     grid-area: sidebar-top;
+    padding: 20px;
 }
 /* ########## Sidebar bottom tile ########### */
 .sidebar-bottom-tile-centered {
