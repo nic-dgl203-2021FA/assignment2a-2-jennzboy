@@ -43,7 +43,12 @@ li {
 }
 
 /* ########## Navbar ########### */
+
+.navbar {
+    background-color: #E9FFF9;
     grid-area: nav;
+}
+
 /* ########## Main tile ########### */
 .main-tile {
     background-color: #E9FFF9;
