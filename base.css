@@ -49,6 +49,10 @@ li {
     grid-area: nav;
 }
 
+.site-nav {
+    display: flex;
+}
+
 /* ########## Main tile ########### */
 .main-tile {
     background-color: #E9FFF9;
